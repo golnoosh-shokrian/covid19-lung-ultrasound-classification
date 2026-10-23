@@ -21,7 +21,7 @@ Classification of COVID-19 from lung ultrasound videos by converting videos to f
 
 ## Results
 
-| Model | Accuracy | Sensitivity | Specificity |
+| Model | Accuracy |
 | InceptionV3 (fine-tuned) | 0.76 | 
 | Xception |0.72 | 
 | ResNet50V2 | 0.71 |
